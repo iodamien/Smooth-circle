@@ -1,7 +1,7 @@
 # Smooth-circle
 Anti-aliased circle
 
-![alt tag](smooth-circle/raw/master/screen.png)
+![alt tag](https://github.com/Dych/Smooth-circle/blob/master/screen.png)
 
 It's a example to show how to draw a anti-aliased circle in Java using the libgdx.
 We can use alpha color to manipulate opacity.
